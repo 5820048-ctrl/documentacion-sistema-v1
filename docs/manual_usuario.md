@@ -8,5 +8,14 @@
 ## 2. Pasos para Iniciar la Aplicación
 1. Abrir la terminal o consola de comandos del sistema operativo.
 2. Navegar a la carpeta raíz del proyecto y ejecutar el comando de arranque:
-```bash
-python main.py
+3. Abrir el navegador e ingresar a la dirección web: `http://localhost:8080`
+
+## 3. Flujo de Operación del Usuario
+**Esquema Operativo:** A continuación se detalla el ciclo de interacción de los usuarios dentro de la plataforma.
+
+## 4. Captura de Pantalla del Sistema
+![Vista Previa del Sistema](assets/pantalla.png)
+
+## 5. Navegación
+- [Volver al README Principal](../README.md)
+- [Ver Arquitectura del Sistema](arquitectura.md)
