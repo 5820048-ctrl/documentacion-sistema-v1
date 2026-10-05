@@ -1,6 +1,6 @@
 # Sistema de Gestión de Inventario - TechStore
 
-(https://5820048-ctrl.github.io/documentacion-sistema-v1/)
+ https://5820048-ctrl.github.io/documentacion-sistema-v1/
 
 ## 1. Descripción del Proyecto
 Escribe aquí un resumen de 2 líneas sobre un sistema de ventas. Utiliza **texto en negrita** para resaltar las características clave y *texto en cursiva* para el nombre de la empresa.
