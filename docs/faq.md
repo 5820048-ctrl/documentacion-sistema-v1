@@ -28,3 +28,12 @@ Respuesta:
 Ayuda a organizar el tiempo de estudio y descanso, permite realizar sesiones de
 estudio estructuradas y ayuda al estudiante a comprobar sus conocimientos
 mediante cuestionarios.
+
+---
+## 🎬 Videotutorial de Demostración del Sistema[cite: 3]
+
+Si prefieres ver la explicación en video, visualiza el recorrido guiado por el equipo de desarrollo:[cite: 3]
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/amjrGAcOC9I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Haz clic aquí para ver el video directamente en YouTube](https://youtu.be/amjrGAcOC9I)
