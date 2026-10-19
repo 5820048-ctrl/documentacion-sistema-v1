@@ -34,6 +34,6 @@ mediante cuestionarios.
 
 Si prefieres ver la explicación en video, visualiza el recorrido guiado por el equipo de desarrollo:[cite: 3]
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/amjrGAcOC9I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://youtu.be/miCfQekehN4?si=psy6AUDs9MtjTHWJ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[Haz clic aquí para ver el video directamente en YouTube](https://youtu.be/amjrGAcOC9I)
+[Haz clic aquí para ver el video directamente en YouTube](https://youtu.be/miCfQekehN4?si=psy6AUDs9MtjTHWJ)
